@@ -28,8 +28,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">After London; or, Wild England</dc:title>
 		<meta property="file-as" refines="#title">After London</meta>
-    <dc:title id="subtitle">Or, Wild England</dc:title>
-    <meta property="file-as" refines="#subtitle">Or, Wild England</meta>
+		<dc:title id="subtitle">Or, Wild England</dc:title>
+		<meta property="file-as" refines="#subtitle">Or, Wild England</meta>
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">After London, or Wild England</dc:title>
 		<meta property="file-as" refines="#fulltitle">After London</meta>
