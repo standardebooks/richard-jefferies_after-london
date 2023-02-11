@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
-	<title>The titlepage for the Standard Ebooks edition of After London; or, Wild England, by Richard Jeffries</title>
+	<title>The titlepage for the Standard Ebooks edition of After London, by Richard Jefferies</title>
 	<style type="text/css">
 		text{
 			font-family: "League Spartan";
@@ -16,7 +16,6 @@
 			font-size: 70.17543793px;
 		}
 	</style>
-	<text class="title" x="700" y="130">AFTER LONDON;</text>
-	<text class="title" x="700" y="230">OR, WILD ENGLAND</text>
-	<text class="author" x="700" y="390">RICHARD JEFFRIES</text>
+	<text class="title" x="700" y="130">AFTER LONDON</text>
+	<text class="author" x="700" y="290">RICHARD JEFFERIES</text>
 </svg>
