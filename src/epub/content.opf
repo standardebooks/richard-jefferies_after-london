@@ -56,7 +56,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;After London&lt;/i&gt; presents a version of England many generations after an apocalyptic event has drastically depopulated the country, leaving nature to take back the land and human survivors to scrape what they can from their surroundings. Petty kings and corrupt republics rule from the region around the lake that has formed in the middle of England. Wild men hide in the woods. Society has regressed to a similar way of life as during the medieval period. &lt;i&gt;After London&lt;/i&gt; is told in two parts, the first of which details what is known of the fall of civilization. The second part follows the son of a baron as he sets off to explore beyond the kingdom he was born into. Nature, civilization, violence, poverty, exploitation, and exploration are major themes.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/richard-jefferies"&gt;Richard Jefferies&lt;/a&gt; wrote the novel toward the end of his life. It combines the nature writing he is traditionally known for with a fantastical science fiction setting; becoming an early example of post-apocalyptic fiction. The surreal exploration of the former site of London bears a striking resemblance to the aftermath of a nuclear explosion, decades before the atomic bomb was created.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;After London&lt;/i&gt; was an inspiration for &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris’s&lt;/a&gt; &lt;i&gt;News From Nowhere&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;After London&lt;/i&gt; was an inspiration for &lt;a href="https://standardebooks.org/ebooks/william-morris"&gt;William Morris&lt;/a&gt;, who said “absurd hopes curled around my heart as I read it.” Morris would go on to reference the pastoralism present in &lt;i&gt;After London&lt;/i&gt; in his utopian novel &lt;i&gt;News From Nowhere&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13944</dc:source>
@@ -67,13 +67,13 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_after-london</meta>
 		<dc:creator id="author">Richard Jefferies</dc:creator>
 		<meta property="file-as" refines="#author">Jefferies, Richard</meta>
-    <meta property="se:name.person.full-name" refines="#author">John Richard Jefferies</meta>
+		<meta property="se:name.person.full-name" refines="#author">John Richard Jefferies</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Richard_Jefferies</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n81125341</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Douglas Volk</dc:contributor>
 		<meta property="file-as" refines="#artist">Volk, Douglas</meta>
-    <meta property="se:name.person.full-name" refines="#artist">Stephen Arnold Douglas Volk</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Stephen Arnold Douglas Volk</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Douglas_Volk</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2002035922</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
