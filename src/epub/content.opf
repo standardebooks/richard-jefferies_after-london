@@ -63,7 +63,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/13944</dc:source>
 		<dc:source>https://archive.org/details/afterlondonorwil00jeffuoft</dc:source>
 		<meta property="se:word-count">84235</meta>
-		<meta property="se:reading-ease.flesch">64.75</meta>
+		<meta property="se:reading-ease.flesch">64.95</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Richard_Jefferies#After_London</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/richard-jefferies_after-london</meta>
 		<dc:creator id="author">Richard Jefferies</dc:creator>
