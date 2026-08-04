@@ -54,7 +54,7 @@
 		<meta property="term" refines="#subject-5">sh2008110652</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:abstract>A young man tries to understand his place in the world as he explores a post-apocalyptic England.</dc:abstract>
+		<meta property="schema:abstract">A young man tries to understand his place in the world as he explores a post-apocalyptic England.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;After London&lt;/i&gt; presents a version of England many generations after an apocalyptic event has drastically depopulated the country, leaving nature to take back the land and human survivors to scrape what they can from their surroundings. Petty kings and corrupt republics rule from the region around the lake that has formed in the middle of the country. Wild men hide in the woods. Society has regressed to a way of life similar to the medieval age.&lt;/p&gt;
 			&lt;p&gt;The novel is told in two parts. The first details what’s known of the fall of civilization, while the second part follows the son of a baron as he sets off to explore beyond the kingdom he was born into. Nature, civilization, violence, poverty, exploitation, and exploration are major themes.&lt;/p&gt;
